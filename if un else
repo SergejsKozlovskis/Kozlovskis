@@ -1,0 +1,38 @@
+#include<iostream>
+using namespace std;
+int main() {
+	/*int catage, dogage ;
+	cin >> catage >> dogage;
+	if (catage > 0 && catage <= 10) { cout << "OK cats age" << endl; }
+	else cout << "unrealistic age" << endl;
+	if (dogage > 0 && dogage <= 2) { cout << "OK dogs age" << endl; }
+	else cout << "unrealistic age" << endl;
+
+	cout << "Exit";*/
+
+
+	/*int vecums, atzime, augstums;
+	cin >> vecums >> atzime >> augstums;
+	if (vecums > 6 && vecums <= 18) { cout << "OK vecums" << endl; }
+	else cout << "unrealistic vecums" << endl;
+	if (atzime > 0 && atzime <= 10) { cout << "OK atzime" << endl; }
+	else cout << "unrealistic atzime" << endl;
+	if (augstums > 50 && augstums <= 220) { cout << "OK augstums" << endl; }
+	else cout << "unrealistic augstums" << endl;
+
+	cout << "Exit";*/
+
+	/*int age = 1;
+	string p = "Polona", pin;
+	cin >> pin;
+	if (p == pin) { cout << "OK " << age; }
+	else cout << "Wrong pasword";*/
+
+	int age = 15;
+	cout << "__________" << endl << "Login : ";
+	string log = "Polona", Login;
+	cin >> Login;
+	cout << "__________";
+	cout << " Password : ";
+
+}
